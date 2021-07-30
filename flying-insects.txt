@@ -1,0 +1,8 @@
+bee
+wasp
+fly
+dragonfly
+moth
+butterfly
+mosquito
+grasshopper

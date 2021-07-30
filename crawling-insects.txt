@@ -1,0 +1,6 @@
+caterpillar
+cockroach
+spider
+louse
+ant
+worm

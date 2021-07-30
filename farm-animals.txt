@@ -1,5 +1,5 @@
 cow
-rabbit
 duck
 pig
 goat
+horse

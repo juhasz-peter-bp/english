@@ -1,5 +1,4 @@
 cow
 duck
 pig
-goat
 horse
